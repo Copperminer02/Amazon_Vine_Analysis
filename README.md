@@ -79,7 +79,7 @@ From this final dataframe and for member and non-member categories,  the total r
 
 ## Summary
 
-
+At first glance, there are a lot more non-vine member reviews.  Looking at the striking similarity between the percentage of 5 star reviews between vine and non-vine, one could assume that no bias exists between vine member and non-member when looking at 5-star reviews.  This could also be validated further with more statistical analysis.  The parsed dataset (>20 votes) could be input in "R" and the distribution of any star star rating could be compared for both goups via a T-test.  The null hyptoythisis being that both non and vine members would vote with the same distribution. This would require all star ratings and not just the 5 star, and would take into consideration poor reviews.  If there is truly a lack of bias, the poor reviews should mirror non-members as well.  
 
 
 
